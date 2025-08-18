@@ -3,6 +3,10 @@
 >  (Loosely Inspired by Tamagotchi nostalgia, built for modern tinkerers)
 
 Website: https://meetsidekick.pages.dev (Will change soon)
+Code: https://github.com/MakerSidekick/code
+PCB Design: https://github.com/MakerSidekick/pcb
+Enclosure: Coming Soon
+Website Source Code: https://github.com/MakerSidekick/website
 
 ## 💡 What is Sidekick? 
 Sidekick is a personal companion, which you can attach on a keychain or carry with you! This little buddy reacts to its surroundings, just like a digital pet.
