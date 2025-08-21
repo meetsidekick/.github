@@ -2,7 +2,7 @@
 > Your expressive, open source, hackable desk companion!  
 >  (Loosely Inspired by Tamagotchi nostalgia, built for modern tinkerers)
 
-Website: https://meetsidekick.pages.dev (Will change soon)  
+Website: https://meetsidekick.tech
 Code: https://github.com/MakerSidekick/code  
 PCB Design: https://github.com/MakerSidekick/pcb  
 Enclosure: Coming Soon  
