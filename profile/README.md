@@ -3,7 +3,8 @@
 >  (Loosely Inspired by Tamagotchi nostalgia, built for modern tinkerers)
 
 Website: https://meetSIDEKICK.tech  
-- Backup Mirror: https://meetSIDEKICK.pages.dev  
+- Backup Mirror: https://meetSIDEKICK.pages.dev
+
 Code: https://github.com/MeetSIDEKICK/code  
 PCB Design: https://github.com/MeetSIDEKICK/pcb  
 Enclosure: Coming Soon  
