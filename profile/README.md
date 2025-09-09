@@ -1,26 +1,32 @@
-## Meet The Sidekick! 👋
+## Meet The SIDEKICK! 👋
 > Your expressive, open source, hackable desk companion!  
 >  (Loosely Inspired by Tamagotchi nostalgia, built for modern tinkerers)
 
-Website: https://meetsidekick.tech  
-Code: https://github.com/MakerSidekick/code  
-PCB Design: https://github.com/MakerSidekick/pcb  
+Website: https://meetSIDEKICK.tech  
+Code: https://github.com/MeetSIDEKICK/code  
+PCB Design: https://github.com/MeetSIDEKICK/pcb  
 Enclosure: Coming Soon  
-Website Source Code: https://github.com/MakerSidekick/website  
+Website Source Code: https://github.com/MeetSIDEKICK/website  
 
-## 💡 What is Sidekick? 
-Sidekick is a personal companion, which you can attach on a keychain or carry with you! This little buddy reacts to its surroundings, just like a digital pet.
+## 💡 What is SIDEKICK? 
+SIDEKICK is a personal companion, which you can attach on a keychain or carry with you! This little buddy reacts to its surroundings, just like a digital pet.
 
-Sidekick's soul lives in Open Source: `Install your own firmware, add wacky features or teach it new tricks!`
+SIDEKICK's soul lives in Open Source: `Install your own firmware, add wacky features or teach it new tricks!`
 
 ## 👩‍💻 Core Features <!-- TODO Actual specs -->
 - ESP32 Inside: Wi-Fi + Bluetooth ready!
-- Adorable Tiny OLED Display: Watch Sidekick show its mood! (0.96 inch, 128x64)
+- Adorable Tiny OLED Display: Watch SIDEKICK show its mood! (0.96 inch, 128x64)
 - Sense and Respond: Accelerometer detects motion, and Buzzer detects makes noises as it moves.
 - Touch: Reacts to movement, touch activity, and the world around it!
 - Built-in Rechargeable Battery: Take Buddy Anywhere! (TBD)
-- Made right here in Bangalore! (Mostly!)
+- Made right here in Bengaluru! (Mostly!)
+    - The Spine: SIDEKICK PCB(Bengaluru)
+    - The Body: A 3D Printed Case (Bengaluru)
+    - The Brains: Dev Board, PCBCupid Glyph ESP32C3 (Bengaluru)
+    - IMU (?)
+    - Display, Buzzer, Buttons, Transistors, Battery, etc (?)
 - Infinitely Hackable: Open hardware, open mind -> write your own Buddy behaviors! (Board and Code sources are available)
+     - ⚡ Even Supports Loading Your Own Code! ⚡
 <!--
 
 **Here are some ideas to get you started:**
